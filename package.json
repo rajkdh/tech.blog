@@ -1,7 +1,6 @@
 {
   "name": "tech-blog",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,13 +11,22 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^5.0.0",
-    "connect-session-sequelize": "^7.0.4",
-    "dotenv": "^8.2.0",
+    "bcrypt": "^5.1.0",
+    "connect-session-sequelize": "^7.1.7",
+    "dotenv": "^8.6.0",
     "express": "^4.17.1",
     "express-handlebars": "^5.3.5",
-    "express-session": "^1.17.1",
-    "mysql2": "^2.2.5",
-    "sequelize": "^6.3.5"
-  }
+    "express-session": "^1.17.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.32.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajkdh/tech.blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rajkdh/tech.blog/issues"
+  },
+  "homepage": "https://github.com/rajkdh/tech.blog#readme",
+  "description": ""
 }
