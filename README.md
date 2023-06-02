@@ -29,6 +29,7 @@ npm install
 ```
 
 ## Usage
+![image](https://github.com/rajkdh/tech.blog/assets/112664790/bd4d965e-9571-4746-9ea4-c3aebfe23792)
 
 <br>
 <br>
